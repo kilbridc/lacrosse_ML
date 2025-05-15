@@ -1,4 +1,4 @@
-## 🥍 Overview
+## Lacrosse ML Project Overview
 
 This project explores the key factors that contribute to the success of NCAA Division I Men’s Lacrosse teams. Using game data and tracked performance metrics, I applied multiple machine learning models to identify which aspects of gameplay are most strongly associated with winning outcomes.
 
@@ -8,7 +8,7 @@ As lacrosse continues to grow rapidly in popularity, **recent rule changes** —
 
 [Link to the GitHub Repository](https://github.com/kilbridc/lacrosse_ML)
 
-[Open in Google Colab](https://colab.research.google.com/github/kilbridc/lacrosse_ML/blob/main/Final_Notebook.ipynb)
+[Open The Notebook in Google Colab](https://colab.research.google.com/github/kilbridc/lacrosse_ML/blob/main/Final_Notebook.ipynb)
 
 [Watch the video report about this project](https://youtu.be/dWswCVBtA3E)
 
