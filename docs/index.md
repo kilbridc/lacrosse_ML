@@ -1,4 +1,4 @@
-## Lacrosse ML Project Overview
+## Lacrosse ML Project
 
 This project explores the key factors that contribute to the success of NCAA Division I Men’s Lacrosse teams. Using game data and tracked performance metrics, I applied multiple machine learning models to identify which aspects of gameplay are most strongly associated with winning outcomes.
 
