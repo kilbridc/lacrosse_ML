@@ -7,11 +7,11 @@ Rather than trying to perfectly predict winners, the goal was to gain insight in
 
 As lacrosse continues to grow rapidly in popularity, **recent rule changes** — including the introduction of a shot clock, adjustments to faceoff rules, and the rise of the aggressive 10 Man Ride — have significantly influenced how the game is played. This project also considers how these changes impact strategy and statistical trends.
 
-## 📊 Results Summary
+## Results Summary
 
 I evaluated model performance using accuracy and F1-score. **Logistic Regression with L1 regularization** performed best, suggesting a mostly linear relationship in the data and that only a few key features drive team success.
 
-### 🔎 Model Summaries
+### Model Summaries
 
 - **Logistic Regression**  
   Best overall performance with L1 regularization. Highlighted a small number of impactful features. RPI, Turnovers/Game, and Assists/Game stood out. L1 regularization outperformed L2, suggesting feature sparsity is important.
@@ -22,14 +22,14 @@ I evaluated model performance using accuracy and F1-score. **Logistic Regression
 - **XGBoost**  
   Feature importance measured using gain. Top features included RPI, Average Margin, and Saves/Game. Offered additional insight into subtle non-linear relationships.
 
-### 🔑 Key Features Across Models
+### Key Features Across Models
 
 - **RPI** was the most consistent predictor pre- and post-2020.
 - **Turnovers per Game** had a strong negative correlation with winning.
 - **Average Margin** and **Faceoff Percentage** also ranked highly.
 - **Saves per Game** showed a surprising negative correlation, likely due to more shots allowed.
 
-### ⚙️ Impact of Rule Changes
+### ⚙Impact of Rule Changes
 
 Post-2020, **RPI became even more important**, while **Assists per Game** dropped in significance — likely due to the increased pace of play reducing setup time for assisted shots. **Clearing stats** had low importance overall.
 
