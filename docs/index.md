@@ -29,7 +29,7 @@ I evaluated model performance using accuracy and F1-score. **Logistic Regression
 - **Average Margin** and **Faceoff Percentage** also ranked highly.
 - **Saves per Game** showed a surprising negative correlation, likely due to more shots allowed.
 
-### ⚙Impact of Rule Changes
+### Impact of Rule Changes
 
 Post-2020, **RPI became even more important**, while **Assists per Game** dropped in significance — likely due to the increased pace of play reducing setup time for assisted shots. **Clearing stats** had low importance overall.
 
